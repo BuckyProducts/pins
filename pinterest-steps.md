@@ -26,7 +26,7 @@ Go to your profile → **Saved** → **+** → **Board**. Type each name **exact
 4. Pinterest emails you when processing finishes. Check **Profile → Created / scheduled pins** (Create → Scheduled Pins).
 
 ## 4. Schedule built into the CSV
-The 30 pins post 4 a day at 14:00, 17:00, 20:00 and 23:00 UTC (10am, 1pm, 4pm and 7pm US Eastern), Oct 16–23, 2026. The first 9 are Halloween and Muertos, followed by Christmas, Secret Santa, bingo, games and AI. Pins whose time has already passed when you upload go live immediately.
+The 31 pins post 4 a day at 14:00, 17:00, 20:00 and 23:00 UTC (9am, 12pm, 3pm and 6pm Mexico City), Oct 19–26, 2026. Starts with Halloween micro products (treat toppers, door signs, kids pack, cupcakes), then Muertos, Christmas/Secret Santa, bingo, games, megapack and AI/teacher tools. Pins whose time has already passed when you upload go live immediately.
 **If Pinterest reports a date error:** open the CSV in a text editor, clear the "Publish date" column, and upload in batches of 4 a day instead.
 
 ## 5. After uploading
